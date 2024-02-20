@@ -10,3 +10,4 @@
 
 <h2>Demo</h2>
 <p>you can view the site at this <a href="https://growfy4.netlify.app/">link</a></p>
+<img src="https://github.com/zHelga/Growfy/blob/main/img/growfy.png"/>
